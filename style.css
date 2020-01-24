@@ -3,6 +3,7 @@ body {
   height: 100%;
   margin: 0;
 }
+
 head { 
   margin: auto;
 }
@@ -15,4 +16,14 @@ a {
   padding-left: 10px;
   padding-right: 10px;
   background: grey;
+}
+
+#featured-property {
+  width: 800;
+  margin: auto;
+}
+
+#details {
+  display: block;
+  
 }
