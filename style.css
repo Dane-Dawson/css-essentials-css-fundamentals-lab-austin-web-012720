@@ -18,6 +18,11 @@ a {
   background: grey;
 }
 
+figcaption {
+  font-size: 60%;
+  margin: auto;
+}
+
 #featured-property {
   width: 800;
   margin: auto;
